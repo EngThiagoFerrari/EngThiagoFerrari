@@ -17,6 +17,7 @@
 ![Folium](https://img.shields.io/badge/folium-123?style=for-the-badge&logo=folium)
 ![Scipy](https://img.shields.io/badge/scypy-123?style=for-the-badge&logo=scipy)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![SQLITE](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![Bash](https://img.shields.io/badge/bash-000?style=for-the-badge&logo=gnubash)  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)  
